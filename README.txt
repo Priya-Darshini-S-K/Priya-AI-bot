@@ -1,31 +1,63 @@
-S.PRIYADARSHINI PORTFOLIO + AURA AI
+# 🤖 Priya Chatbot AI – Personal Portfolio
 
-FILES
-- index.html: portfolio content and Aura AI chat interface
-- style.css: portfolio and chatbot styling
-- script.js: navigation and chatbot browser logic
-- netlify/functions/chat.js: secure Gemini API serverless function
-- netlify.toml: Netlify function configuration
+Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, and learning journey as a B.Com Information Technology student and aspiring AI & Web Developer.
 
-RUN LOCALLY
-1. Install Node.js.
-2. Open this folder in VS Code.
-3. In the terminal, run: npm install -g netlify-cli
-4. Run: netlify dev
-5. Open the local URL shown by Netlify CLI.
+## 🌐 Live Demo
 
-ENABLE AURA AI
-1. Create a Gemini API key in Google AI Studio.
-2. In Netlify, open Site configuration / Environment variables.
-3. Add GEMINI_API_KEY with your API key as its value.
-4. Redeploy the site.
-5. Test Aura AI after deployment.
+[Visit My Portfolio](https://priya-chatbot-ai.netlify.app/)
 
-SECURITY
-Do not paste the API key into index.html or script.js. It must remain in the GEMINI_API_KEY server environment variable.
+## 👩‍💻 About Me
 
-IMPORTANT ASSETS
-Your uploaded files did not include the images/ and certificates/ folders referenced by the original HTML. Copy your existing images/ and certificates/ folders into this project folder before publishing, so your profile photo and six certificate previews display correctly.
+Hi! I'm **S. Priyadarshini**, a B.Com Information Technology student passionate about Web Development and Artificial Intelligence.
 
-CONTACT
-The email address in index.html is still a sample placeholder. Replace priyadarshini@example.com with your real email before publishing.
+I enjoy creating responsive websites, exploring AI tools, and building creative digital solutions.
+
+## ✨ Features
+
+* Modern and responsive portfolio design.
+* About Me section.
+* Skills and technologies showcase.
+* Project portfolio.
+* Certificates section.
+* Contact information.
+* AI-powered chatbot integration.
+* Interactive user interface.
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* AI Integration
+* Netlify
+
+## 📂 Project Sections
+
+1. Home
+2. About Me
+3. Skills
+4. Projects
+5. Certificates
+6. Contact
+7. AI Chatbot
+
+## 🚀 Deployment
+
+This website is deployed using Netlify.
+
+## 🎯 Project Goal
+
+The main goal of this project is to showcase my technical skills, development projects, and explore AI-powered web applications.
+
+## 👩‍💻 Developer
+
+**S. Priyadarshini**
+
+* GitHub: [Priya-Darshini-S-K](https://github.com/Priya-Darshini-S-K)
+* Portfolio: [Priya Chatbot AI](https://priya-chatbot-ai.netlify.app/)
+
+---
+
+⭐ Thank you for visiting my project!
+
+**Built with ❤️ by Priyadarshini**
